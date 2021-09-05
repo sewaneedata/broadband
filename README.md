@@ -7,6 +7,7 @@ https://youtu.be/inZuxJwv338
 
 
 **Instructions for running the app on local machine**
+
 Steps:
 - Open terminal
 - cd into the directory you want to put the app in
